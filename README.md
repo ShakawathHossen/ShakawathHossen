@@ -19,6 +19,4 @@ Skills: REACT / JS / BOOTSTAP/ HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShakawathHossen&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShakawathHossen)  
-
 ![Profile views](https://gpvc.arturio.dev/ShakawathHossen)  
